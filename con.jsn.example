@@ -1,0 +1,10 @@
+{
+    "connection_string": "sqlite:///:memory:",
+    "database": "YOUR DB",
+    "host": "data.YOUR SERVER.io",
+    "password": "YOUR PASSWORD",
+    "port": 5432,
+    "schema": "augur_data",
+    "user": "YOUR USER",
+    "user_type": "read_only"
+}
